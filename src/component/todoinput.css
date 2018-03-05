@@ -1,0 +1,19 @@
+.todo-form {
+  display: flex;
+  width: 100%;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+.todo-field,
+.todo-btn {
+  font-size: 20px;
+  padding: 5px 10px;
+  border: 0;
+}
+.todo-field {
+  flex: 1;
+}
+.todo-btn {
+  background-color: lightblue;
+  cursor: pointer;
+}

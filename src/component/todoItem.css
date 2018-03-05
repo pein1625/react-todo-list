@@ -1,0 +1,12 @@
+.todo-item {
+  margin-bottom: 16px;
+  font-size: 20px;
+}
+.todo-item::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.todo-item-btn {
+  float: right;
+}

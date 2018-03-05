@@ -1,0 +1,7 @@
+.todos-wrap {
+  border: 2px solid black;
+  width: 600px;
+  min-height: 400px;
+  padding: 30px;
+  margin: 30px auto;
+}
